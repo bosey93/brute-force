@@ -1,4 +1,4 @@
-# brute-force.py
+# Brute Force Tool-Kit v1.0
 Kit de herramientas para fuerza bruta: Facebook, Instagram, Twitter, Spotify, WordPress.
 
 
