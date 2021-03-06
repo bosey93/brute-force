@@ -1,4 +1,4 @@
-# Brute Force Tool-Kit v1.0
+# Brute Force Kit-Tool v1.0
 Kit de herramientas para fuerza bruta: Facebook, Instagram, Twitter, Gmail, Spotify, WordPress.
 
 
