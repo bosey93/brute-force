@@ -4,7 +4,8 @@
 import os
 import sys
 import time
-from colorama import Fore, Style
+import colorama 
+import Fore, Style
 
 
 RED = '\033[1;31m'
